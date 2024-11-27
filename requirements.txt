@@ -1,0 +1,11 @@
+langchain==0.3.8
+langchain-community==0.3.8
+langchain-groq==0.2.1
+unstructured==0.16.8
+unstructured-client==0.27.0
+selenium==4.27.1
+chromadb==0.5.20
+streamlit==1.40.2
+pandas==2.2.3
+gradio==5.6.0
+python-dotenv==1.0.1
