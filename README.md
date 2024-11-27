@@ -24,14 +24,16 @@ To get started, follow these steps:
    ```
 
 3. **Run the Streamlit App:**
+   <img width="1231" alt="Screenshot 2024-11-28 021632" src="https://github.com/user-attachments/assets/09823e8b-1520-4cb6-90f3-3259a06b5d65">
    Once dependencies are installed, you can run the Streamlit app using the command below:
 
    ```bash
    streamlit run app/main_streamlit.py
    ```
 
-4. **Run the Gradio App:**
-   Alternatively, you can run the Gradio app by using the following command:
+5. **Run the Gradio App:**
+   <img width="1234" alt="Screenshot 2024-11-28 021746" src="https://github.com/user-attachments/assets/6fe9005f-ff70-4cb0-922e-fc9758820166">
+   You can also run the Gradio app by using the following command:
 
    ```bash
    python app/main_gradio.py
