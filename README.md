@@ -2,7 +2,7 @@
 
 Outreach Mail Generator is a tool designed to help companies generate outreach emails using Groq, LangChain, Llama3.1, and Streamlit/Gradio. Users can input the URL of a company's careers page, extract job postings, and generate personalized emails. These emails include relevant portfolio links retrieved from a vector database, tailored to match specific job descriptions.
 
-### Scenario:
+### Use Case:
 
 - Albert, a leading company in the manufacturing sector, is looking for a **Machine Learning Engineer** (ML Engineer) or a **Data Scientist**. They are investing time and resources in the hiring process, onboarding, and training new employees.  
 - **MichCorp**, an innovative AI & Software Consulting company, can provide a dedicated software development engineer or data science expert to Albert. So, the business development executive from MichCorp reaches out to Albert by generating a personalized email.
