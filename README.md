@@ -4,8 +4,8 @@ Outreach Mail Generator is a tool designed to help companies generate outreach e
 
 ### Scenario:
 
-Albert, a leading company in the manufacturing sector, is looking for a **Machine Learning Engineer** (ML Engineer) or a **Data Scientist**. They are investing time and resources in the hiring process, onboarding, and training new employees.  
-**MichCorp**, an innovative AI & Software Consulting company, can provide a dedicated software development engineer or data science expert to Albert. So, the business development executive from MichCorp reaches out to Albert by generating a personalized email.
+- Albert, a leading company in the manufacturing sector, is looking for a **Machine Learning Engineer** (ML Engineer) or a **Data Scientist**. They are investing time and resources in the hiring process, onboarding, and training new employees.  
+- **MichCorp**, an innovative AI & Software Consulting company, can provide a dedicated software development engineer or data science expert to Albert. So, the business development executive from MichCorp reaches out to Albert by generating a personalized email.
 
 ---
 
