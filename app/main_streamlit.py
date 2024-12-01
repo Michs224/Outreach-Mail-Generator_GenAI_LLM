@@ -8,7 +8,7 @@ from portfolio import Portfolio
 from utils import clean_text
 
 def StreamlitApp(llm, portfolio, clean_text):
-    st.title("📩 Reachout Mail Generator")
+    st.title("📩 Outreach Mail Generator")
     url_input = st.text_input("Enter a URL:",value="https://gopay.co.id/karier/job/data-scientist-intern-indonesia")
     submit_button = st.button("Generate Mail")
 

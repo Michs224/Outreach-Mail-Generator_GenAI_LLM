@@ -33,7 +33,7 @@ def generate_mail(url_input):
 
 def create_gradio_interface():
     with gr.Blocks() as demo:
-        gr.Markdown("# 📩 Reachout Mail Generator")
+        gr.Markdown("# 📩 Outreach Mail Generator")
         url_input = gr.Textbox(label="Enter a URL:", value="https://gopay.co.id/karier/job/data-scientist-intern-indonesia")
         submit_button = gr.Button("Generate Mail")
         email_output = gr.Textbox(label="Generated Mail", interactive=False, lines=10)
