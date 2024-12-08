@@ -18,7 +18,7 @@ def StreamlitApp(llm, portfolio, clean_text):
             cleaned_page = clean_text(loader.load().pop().page_content)
             portfolio.load_portfolio()
             jobs =llm.extract_job(cleaned_page)
-
+            
             for job in jobs:
                 skiils = job.get("skills", [])
                 links = portfolio.query_links(skills=skiils)

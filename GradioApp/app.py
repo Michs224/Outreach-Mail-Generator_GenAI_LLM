@@ -7,8 +7,10 @@ from chains import Chain
 from portfolio import Portfolio
 from utils import clean_text
 
-llm = Chain()
-portfolio = Portfolio()
+def load_system():
+    global llm, portfolio
+    llm = Chain()
+    portfolio = Portfolio()
 
 def generate_mail(url_input):
     try:
@@ -41,5 +43,6 @@ def create_gradio_interface():
     return demo
 
 if __name__ == "__main__":
+    load_system()
     app = create_gradio_interface()
-    app.launch()
+    app.launch(server_name="0.0.0.0", server_port=80)
