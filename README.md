@@ -63,3 +63,5 @@ app/
 ```
 
 ---
+
+### AWS EC2: http://ec2-100-27-192-67.compute-1.amazonaws.com:8501/
