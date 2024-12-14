@@ -1,6 +1,6 @@
 # 📩 Outreach Mail Generator
 
-Outreach Mail Generator is a tool designed to help companies generate outreach emails using Groq, LangChain, Llama3.1, and Streamlit/Gradio. Users can input the URL of a company's careers page, extract job postings, and generate personalized emails. These emails include relevant portfolio links retrieved from a vector database, tailored to match specific job descriptions.
+Outreach Mail Generator is a tool designed to help companies generate outreach emails using Groq, LangChain, Llama3.3, and Streamlit/Gradio. Users can input the URL of a company's careers page, extract job postings, and generate personalized emails. These emails include relevant portfolio links retrieved from a vector database, tailored to match specific job descriptions.
 
 ### Use Case:
 
@@ -64,4 +64,4 @@ app/
 
 ---
 
-### AWS EC2: http://ec2-100-27-192-67.compute-1.amazonaws.com:8501/
+### AWS EC2: http://ec2-34-233-133-186.compute-1.amazonaws.com:8501/
